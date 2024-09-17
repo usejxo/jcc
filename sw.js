@@ -1,5 +1,5 @@
 // Name of the cache
-const CACHE_NAME = 'all-resources-cache-v1';
+const CACHE_NAME = 'ccc';
 
 // Install event: Cache all files in the specified list during the install phase
 self.addEventListener('install', (event) => {
